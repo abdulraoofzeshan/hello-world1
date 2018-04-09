@@ -1,2 +1,2 @@
 # hello-world1
-mycodes
+mycodes are benificial to others
